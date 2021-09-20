@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Allison!
-- I'm young developer with focus on Back-end programming. I'm curious and always working on expanding my knowledge. My languages used are: Python, C# and C++.
+- I'm young developer. I'm curious and always working on expanding my knowledge.
 
 <!---
 Gierdiaz/Gierdiaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
