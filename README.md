@@ -1,5 +1,5 @@
 ### 👋 What's up, Buddy.
-### I'm a very curious young developer and always working to expand my knowledge..
+### I'm a very curious young developer and always working to expand my knowledge...
 
 
 
